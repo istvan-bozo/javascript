@@ -1,1 +1,1 @@
-CSS3 course repository
+JavaScript course repository
